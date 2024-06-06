@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rashed Mahmud.
-- 👀 I’m interested in programming. 
+- 👀 I’m very interested in programming. 
 - 🌱 I’m currently learning CSS and Bootsrap. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
